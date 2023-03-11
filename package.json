@@ -1,0 +1,24 @@
+{
+  "name": "authentication-using-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndrajeetKumarNayak/Authentication-using-nodjs.git"
+  },
+  "author": "Indrajeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IndrajeetKumarNayak/Authentication-using-nodjs/issues"
+  },
+  "homepage": "https://github.com/IndrajeetKumarNayak/Authentication-using-nodjs#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  }
+}
